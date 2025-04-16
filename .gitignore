@@ -1,0 +1,17 @@
+# Ignore Conda environment folder
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+
